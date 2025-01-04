@@ -18,11 +18,10 @@ npm init
 ```bash
 npm i discord.js
 ```
-  - Pensez à changer votre clé API discord obtenable en créant un bot sur:
+  - Dans le fichier config.json, pensez à changer votre clé API discord obtenable en créant un bot sur:
 ```bash
 https://discord.com/developers/applications
 ```
-dans le fichier config.json
   - Dans ```meme_generator.py``` changez aussi votre ou vos clé API obtenable(s) sur ```https://apileague.com/console/#```
   - Vous n'avez plus qu'à executer
 ```bash
