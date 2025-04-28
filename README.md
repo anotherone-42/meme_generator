@@ -18,6 +18,10 @@ npm init
 ```bash
 npm i discord.js
 ```
+Et finissez par
+```bash
+python -m pip install requests
+```
   - Dans le fichier config.json, pensez à changer votre clé API discord obtenable en créant un bot sur:
 https://discord.com/developers/applications
 
