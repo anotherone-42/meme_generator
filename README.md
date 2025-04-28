@@ -6,9 +6,9 @@ Merci à <a href="https://apileague.com/"API League<a> pour leur API de qualité
 Installation:
 
   - Téléchargez node js:
-```bash
+
 https://nodejs.org/fr
-```
+
   - Faites son installation
   - Dans VsCode, ouvrez un terminal et executez:
 ```bash
