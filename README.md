@@ -1,7 +1,7 @@
 # meme_generator
 
-Bot discord pour envoyer automatiquement un meme dans un channel en fonction d'une cmd
-Merci à <a href="https://apileague.com/"API League<a> pour leur API de qualité <3
+Bot discord pour envoyer automatiquement un meme dans un channel en fonction d'une cmd  
+Merci à https://apileague.com pour leur API de qualité <3  
 
 Installation:
 
