@@ -1,7 +1,7 @@
-# meme_generator
+# meme_generator  
 
-BTC adress for donations: bc1qldzadlm29m520xqfg0qwgepk3d5ltdkrknzfnk  
-
+XMR adress for donations: 4AJtFkiynSSiRrzcNeD2PkhRnLvd35zPt1PCng5NCDfAExn9cZ9jPnY6Bc3RkadLPLEyMCa7aWcXyL725mmrZ3BcNdSCYuH  
+  
 Bot discord pour envoyer automatiquement un meme dans un channel en fonction d'une cmd  
 Merci à https://apileague.com pour leur API de qualité <3  
 
