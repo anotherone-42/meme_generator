@@ -1,35 +1,35 @@
 # meme_generator  
 
-XMR adress for donations: 4AJtFkiynSSiRrzcNeD2PkhRnLvd35zPt1PCng5NCDfAExn9cZ9jPnY6Bc3RkadLPLEyMCa7aWcXyL725mmrZ3BcNdSCYuH  
+XMR address for donations: 4AJtFkiynSSiRrzcNeD2PkhRnLvd35zPt1PCng5NCDfAExn9cZ9jPnY6Bc3RkadLPLEyMCa7aWcXyL725mmrZ3BcNdSCYuH  
+
+Discord bot to automatically send a meme to a channel based on a command  
+Thanks to https://apileague.com for their quality API <3  
   
-Bot discord pour envoyer automatiquement un meme dans un channel en fonction d'une cmd  
-Merci à https://apileague.com pour leur API de qualité <3  
-
-Installation:
-
-  - Téléchargez node js:
-
-https://nodejs.org/fr
-
-  - Faites son installation
-  - Dans VsCode, ouvrez un terminal et executez:
+Installation:  
+  
+- Download Node.js:  
+  
+https://nodejs.org/fr  
+  
+- Install it  
+- In VSCode, open a terminal and execute:  
 ```bash
 npm init
 ```
-  - Puis
+- Then  
 ```bash
 npm i discord.js
-```
-Et finissez par
+```  
+And finally  
 ```bash
 python -m pip install requests
-```
-  - Dans le fichier config.json, pensez à changer votre clé API discord obtenable en créant un bot sur:
-https://discord.com/developers/applications
-
-  - Dans ```meme_generator.py``` changez aussi votre ou vos clé API obtenable(s) sur https://apileague.com/console/#
-  - Vous n'avez plus qu'à executer
+```  
+- In the config.json file, remember to change your Discord API key, which you can get by creating a bot on:  
+https://discord.com/developers/applications  
+  
+- In ```meme_generator.py```, also change your API key(s) obtainable from https://apileague.com/console/#  
+- All you have to do now is execute  
 ```bash
 node index.js
-```
-  - Suivant votre modification de votre fichier config.json, envoyez "&meme" pour en générer un dans le chann discord
+```  
+- Depending on your modification of your config.json file, send "&meme" to generate one in the Discord channel  
